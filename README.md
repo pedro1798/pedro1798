@@ -20,4 +20,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro1798&layout=compact&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter584aa)](https://solved.ac/peter584aa/)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pedro1798)]([벨로그링크](https://velog.io/@pedro1798))
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
