@@ -1,7 +1,7 @@
 📚Studying📚
 
 
-![Rust](https://www.rust-lang.org/logos/rust-logo-128x128-blk.png)
+![Rust](https://www.rust-lang.org/logos/rust-logo-128x128-blk.png) 
 
 
 <!--![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)-->
