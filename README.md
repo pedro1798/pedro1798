@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=____)
-
 📚**Studying**
 
 ![Rust](https://www.rust-lang.org/logos/rust-logo-64x64.png)
