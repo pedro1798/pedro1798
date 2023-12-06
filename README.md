@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=안뇽)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=안%20%20뇽)
 
 📚**Studying**
 
