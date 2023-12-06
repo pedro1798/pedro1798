@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Hi,it's%20SangJun)
 
-📚Studying📚
+📚**Studying**
 
 ![Rust](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/fe36cc42774743.57ee5f329fae6.gif)
 <!--![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)-->
@@ -9,7 +9,7 @@
 <!--![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)-->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-👨‍💻Blog👨‍💻
+👨‍💻**Blog**
 
 <a href="https://velog.io/@pedro1798">![velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)</a>
 
