@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hi,it's%20Sangjun)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi,it's%20SangJun)
 
 📚Studying📚
 
