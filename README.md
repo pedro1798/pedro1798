@@ -2,7 +2,7 @@
 
 📚Studying📚
 
-![Rust](https://user-images.githubusercontent.com/8974888/231858967-7c37bf1e-335b-4f5a-9760-da97be9f54bb.png)
+![Rust](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/fe36cc42774743.57ee5f329fae6.gif)
 <!--![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
