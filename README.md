@@ -1,6 +1,6 @@
 ### About
 ---
-Enterested in developing, not only programming.
+Hello. This space will filled with some self introducing texts.
 - email : peter584aa@naver.com
 - resume blog : 
 
