@@ -1,4 +1,9 @@
-![pedro1798's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro1798&show_icons=true&theme=dark) 
+### About
+---
+- email: peter584aa@naver.com
+- 
+
+### PS Rank
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro1798&layout=compact&theme=dark)-->
 
