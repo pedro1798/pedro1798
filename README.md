@@ -1,6 +1,6 @@
 ### About
 ---
-Hello. This space will filled with some self introducing texts.
+Hello. This space will be filled with self introduction texts.
 - email : peter584aa@naver.com
 - resume blog : 
 
