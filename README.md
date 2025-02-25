@@ -1,7 +1,6 @@
 ### About
 ---
-Hello. This space will be filled with self introduction texts.
-- email : peter584aa@naver.com
+- email : peter584aa@knu.ac.kr
 - resume blog : 
 
 ### PS Rank
