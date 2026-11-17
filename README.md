@@ -1,11 +1,12 @@
 
-Hello there! 
+<h2>Hello there!</h2>
   
 Computer Science × German Language & Literature
 
 Studying how systems work, and how to make them trustworthy.
 
-About
+<h2>About</h2>
+
 I'm an undergraduate studying Computer Science and German Language & Literature.
 My interests connect systems, security, and the ways we understand technology.
 
